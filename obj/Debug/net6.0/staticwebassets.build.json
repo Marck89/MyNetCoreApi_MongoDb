@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N+/0E9Nn1Vk7WI/Gieox7F1Eq0wR25Iccj1NbWYOtMs=",
+  "Source": "MyNetCoreApi_MongoDb",
+  "BasePath": "_content/MyNetCoreApi_MongoDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
